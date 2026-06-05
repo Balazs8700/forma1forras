@@ -51,7 +51,7 @@ nav{
 }
 
 .menu a:hover{
-    color: #c00000;
+    background-color: rgb(231, 64, 14);
 }
 
 .cikk-doboz{
@@ -131,8 +131,4 @@ h6{
 }
 #hirek{
     text-align: justify;
-}
-
-ul a:hover{
-    color: rgb(231, 64, 14);
 }
